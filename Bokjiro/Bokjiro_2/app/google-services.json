@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8035895817",
+    "firebase_url": "https://bokjimoney.firebaseio.com",
+    "project_id": "bokjimoney",
+    "storage_bucket": "bokjimoney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8035895817:android:181b716c01998e654a46d8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8035895817-lsq7kn93676nvcnnm3t7p6h1m8vf820p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHsFruNCf-3L0fd6KcIyEj_fLWxmNOdoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8035895817-lsq7kn93676nvcnnm3t7p6h1m8vf820p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
