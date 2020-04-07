@@ -1,0 +1,12 @@
+git config --global user.name heejooov 2814(settings) 3125
+git config --global user.email 
+
+git clone https://~
+
+git add document.txt
+git commit -m "AAAA"
+
+https://lab.hanium.or.kr/19-p713/bokjimoney.git
+https://lab.hanium.or.kr/jhj/testproject.git
+https://github.com/heejooov/Git-Tutorial.git
+https://gitlab.com/heejooov/gitlab-tutorial.git
